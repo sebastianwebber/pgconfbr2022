@@ -1,8 +1,9 @@
 # Corrupção de dados: De onde vem? Do que se alimenta?
 
-Link para talk:
+Slides:
 - https://speakerdeck.com/sebastianwebber/corrupcao-de-dados-de-onde-vem-do-que-se-alimenta
-- https://docs.google.com/presentation/d/1HaBOpKDv3IxyY7K-3NOLUHO12rEXOMPVhdToiYMOp3c/edit?usp=sharing
+- [Slides em pt_BR](https://docs.google.com/presentation/d/1HaBOpKDv3IxyY7K-3NOLUHO12rEXOMPVhdToiYMOp3c/edit?usp=sharing)
+- [Slides in en_US](https://docs.google.com/presentation/d/1eHDZgTcHPg4Sb9bReoKnqpr4kO9iicOuQh4fqn0DRyU/edit?usp=sharing)
 
 ## Referências
 
@@ -38,5 +39,6 @@ Link para talk:
  - http://www.databasesoup.com/2013/10/de-corrupting-toast-tables.html 
  - https://postgrespro.com/list/thread-id/2482095  
  - https://github.com/therealkevinc/pgio
+ - https://wiki.postgresql.org/wiki/Fsync_Errors
  - https://www.dbi-services.com/blog/postgres-the-fsync-issue-and-pgio-the-slob-method-for-postgresql/ 
  - https://blog.httrack.com/blog/2013/11/15/everything-you-always-wanted-to-know-about-fsync/ 
